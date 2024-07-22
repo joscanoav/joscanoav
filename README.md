@@ -16,7 +16,7 @@
 
 💻 Desarrollador de Software con experiencia en Java, Python, JavaScript, PHP y frameworks modernos
 
-📚 Docente a Distancia en Informática e Inglés en el Instituto Técnico Privado Carrión
+📚 Docente a Distancia en Informática e Inglés.
 
 🔧 Habilidades en gestión de bases de datos SQL y NoSQL, metodologías ágiles (Scrum, Kanban), y entornos virtuales de enseñanza
 
