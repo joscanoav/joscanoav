@@ -12,15 +12,19 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 INGENIERO DE SISTEMAS graduado de la Universidad Federico Villarreal, Lima, Perú
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+💻 Desarrollador de Software con experiencia en Java, Python, JavaScript, PHP y frameworks modernos
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+📚 Docente a Distancia en Informática e Inglés en el Instituto Técnico Privado Carrión
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+🔧 Habilidades en gestión de bases de datos SQL y NoSQL, metodologías ágiles (Scrum, Kanban), y entornos virtuales de enseñanza
 
-📫 Contacto: **unsimpledev@gmail.com**
+🌍 Inglés Avanzado perfeccionado en el Reino Unido, facilitando la enseñanza en entornos multiculturales
+
+🚀 Entusiasta del desarrollo de profesionales en DAM y DAW
+
+📫 Contacto: joscanoav@gmail.com
 <!--Intro end-->
   </p>
 <br>
