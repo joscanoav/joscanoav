@@ -140,3 +140,9 @@
 
 </p>        
 <!--- stats (end) -->
+## Connect with me
+
+[![TikTok](https://upload.wikimedia.org/wikipedia/en/6/69/TikTok_logo.svg)](https://www.tiktok.com/@devenglishsolution)
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/DevEnglishSolution)
+[![YouTube](https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png)](https://www.youtube.com/DevEnglishSolution)
+
