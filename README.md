@@ -1,7 +1,7 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
+Hola, mi nombre es Jorge Oscanoa 👋
 ### Freelance full-stack iOS & Android engineer
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
+![https://github.com/mouredev](./joscanoav_github_banner.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
