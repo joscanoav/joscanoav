@@ -7,13 +7,15 @@ Hola, mi nombre es Jorge Oscanoa 👋
 ![GitHub followers](https://img.shields.io/github/followers/joscanoav)
 
 
-Soy ingeniero de sistemas profesional desde 2020, graduado de la Universidad Federico Villarreal en Lima, Perú.
+🌟 About Me 🌟
 
-Trabajo como desarrollador de software freelance, con experiencia en Java, Python, JavaScript, PHP y frameworks modernos. También tengo habilidades en la gestión de bases de datos SQL y NoSQL, y en metodologías ágiles (Scrum, Kanban).
+👨‍💻 I'm a passionate systems engineer since 2020, proudly graduated from Federico Villarreal University in Lima, Peru.
 
-Desde 2020, soy docente a distancia de Programación e Inglés. Hablo inglés avanzado, perfeccionado en el Reino Unido, lo que facilita mi enseñanza en entornos multiculturales.
+🚀 As a freelance software developer, I bring projects to life with my expertise in Java, Python, JavaScript, PHP, and cutting-edge frameworks. My skills in managing SQL and NoSQL databases, combined with my proficiency in agile methodologies like Scrum and Kanban, ensure every project I touch reaches its full potential.
 
-Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compartir mi conocimiento y ayudar a más personas a acceder a la educación tecnológica.
+📚 Since 2020, I've been on an exciting journey as an online instructor for Programming and English. My advanced English skills, honed in the United Kingdom, allow me to connect and teach in vibrant, multicultural settings.
+
+💡 I'm deeply passionate about nurturing the growth of professionals in DAM and DAW. My mission is to share my knowledge, inspire others, and make technology education accessible to everyone.
 
 
 ## Encuéntrame en:
