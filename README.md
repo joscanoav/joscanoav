@@ -28,14 +28,6 @@ Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compa
 
 <br>
 
-# Algunos proyectos de la comunidad
-
-## Ruta de estudio programación
-
-<a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-
-[![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
-
 ## Algunos vídeos en YouTube:
    <table style="width:100%">
         <tr>
@@ -59,11 +51,8 @@ Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compa
 
 ## Contacto y apoyo:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
-</br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/joscanoavi)
+
 
 
 
