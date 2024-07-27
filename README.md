@@ -1,5 +1,5 @@
 Hola, mi nombre es Jorge Oscanoa 👋
-### Freelance full-stack iOS & Android engineer
+### Desarrollador full stack
 
 ![https://github.com/joscanoav](./banner.png)
 
