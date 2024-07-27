@@ -42,7 +42,7 @@ Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compa
 <tr>
 <td>
 <a href="https://www.youtube.com/watch?v=-P3azp57OPQ&t=1422s">
-<img src="http://i3.ytimg.com/vi/-P3azp57OPQ/maxresdefault.jpg">
+<img src="http://img.youtube.com/vi/-P3azp57OPQ/maxresdefault.jpg">
 </a>
 </td>
   
