@@ -37,6 +37,9 @@ Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compa
 [![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
 
 ## Algunos vídeos en YouTube:
+<table style="width:100%">
+
+</table>
     <table style="width:100%">
         <tr>
             <td>
