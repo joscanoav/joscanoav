@@ -37,63 +37,25 @@ Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compa
 [![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
 
 ## Algunos vídeos en YouTube:
-
-<table style="width:100%">
-
-<td>
-<a href="https://www.youtube.com/watch?v=-P3azp57OPQ&t=1422s">
-<img src="http://img.youtube.com/vi/-P3azp57OPQ/maxresdefault.jpg">
-</a>
-</td>
-
-  
-<td>
-<a href="https://youtu.be/3UCZltG8iCY">
-<img src="https://img.youtube.com/vi/https://youtu.be/-P3azp57OPQ?si=l0eUKnX2VK688ytI>/default.jpg">
-
-</a>
-</td>
-<td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/SavaU66KxQY">
-<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/G0ga_YVQOaw">
-<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/NJacVZx2fv8">
-<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-<tr>
-<td>
-<a href="https://youtu.be/_y9qQZXE24A">
-<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/mIVbUb7shE8">
-<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
-</a>
-</td>
-<td>
-<a href="https://youtu.be/zFbTXe1yFGA">
-<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
-</a>
-</td>
-</tr>
-</table>
+    <table style="width:100%">
+        <tr>
+            <td>
+                <a href="https://www.youtube.com/watch?v=-P3azp57OPQ&t=1425s">
+                    <img src="https://img.youtube.com/vi/-P3azp57OPQ/mqdefault.jpg" alt="Video 1">
+                </a>
+            </td>
+            <td>
+                <a href="https://www.youtube.com/watch?v=yxEGRo4qk6g&t=651s">
+                    <img src="https://img.youtube.com/vi/yxEGRo4qk6g/mqdefault.jpg" alt="Video 2">
+                </a>
+            </td>
+            <td>
+                <a href="https://www.youtube.com/watch?v=Jp3mGWJeycU&t=700s">
+                    <img src="https://img.youtube.com/vi/Jp3mGWJeycU/mqdefault.jpg" alt="Video 3">
+                </a>
+            </td>
+        </tr>
+    </table>
 
 ## Contacto y apoyo:
 
