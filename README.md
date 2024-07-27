@@ -43,7 +43,7 @@ Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compa
   <td width="25%" align="center">
     <p align="center">
      <a href="https://youtu.be/LhWPuNJc6A8?si=V6LmQLEw1Gwp5lC2" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+        <img align="center" width=100% src=""http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg"  alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="[https://youtu.be/rISmdhlhOPM](https://youtu.be/LhWPuNJc6A8?si=V6LmQLEw1Gwp5lC2)" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
