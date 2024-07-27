@@ -1,7 +1,7 @@
 Hola, mi nombre es Jorge Oscanoa 👋
 ### Desarrollador full stack
 
-![https://github.com/joscanoav](./banner.png)
+![https://github.com/joscanoav](./banner2.png)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRMmSPL1obKTg6JCuPSAJzA)](https://www.youtube.com/channel/UCRMmSPL1obKTg6JCuPSAJzA)
 ![GitHub followers](https://img.shields.io/github/followers/joscanoav)
