@@ -3,6 +3,7 @@ Hola, mi nombre es Jorge Oscanoa 👋
 
 ![https://github.com/joscanoav](./banner.png)
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCRMmSPL1obKTg6JCuPSAJzA)
 ![GitHub followers](https://img.shields.io/github/followers/joscanoav)
 
 
