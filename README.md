@@ -9,7 +9,7 @@ Hola, mi nombre es Jorge Oscanoa 👋
 
 Soy ingeniero de sistemas profesional desde 2020, graduado de la Universidad Federico Villarreal en Lima, Perú.
 
-Trabajo como desarrollador de software, con experiencia en Java, Python, JavaScript, PHP y frameworks modernos. También tengo habilidades en la gestión de bases de datos SQL y NoSQL, y en metodologías ágiles (Scrum, Kanban).
+Trabajo como desarrollador de software freelance, con experiencia en Java, Python, JavaScript, PHP y frameworks modernos. También tengo habilidades en la gestión de bases de datos SQL y NoSQL, y en metodologías ágiles (Scrum, Kanban).
 
 Desde 2020, soy docente a distancia de Programación e Inglés. Hablo inglés avanzado, perfeccionado en el Reino Unido, lo que facilita mi enseñanza en entornos multiculturales.
 
