@@ -18,11 +18,6 @@ Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compa
 
 ## Encuéntrame en:
 
-
-
-
-<h1 align="center">Hola 👋 soy Jorge Oscanoa / joscanoav ✨ </h1> 
-
 <p align="left">
   <a href="https://www.youtube.com/@DevEnglishSolution" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
 <a href="https://www.tiktok.com/@DevEnglishSolution" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@unsimpledev" /></a>
@@ -30,26 +25,7 @@ Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compa
 <a href="https://fb.com/DevEnglishSolution" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
 <a href = "mailto:joscanoav@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@joscanoa"  /></a>
   </p>
-<br>
-<h2>Sobre mi 😃</h2>
-<!--Intro start-->
 
-<p align="left">
-🎓 INGENIERO DE SISTEMAS graduado de la Universidad Federico Villarreal, Lima, Perú
-
-💻 Desarrollador de Software con experiencia en Java, Python, JavaScript, PHP y frameworks modernos
-
-📚 Docente a Distancia en Programación e Inglés.
-
-🔧 Habilidades en gestión de bases de datos SQL y NoSQL, metodologías ágiles (Scrum, Kanban), y entornos virtuales de enseñanza
-
-🌍 Inglés Avanzado perfeccionado en el Reino Unido, facilitando la enseñanza en entornos multiculturales
-
-🚀 Entusiasta del desarrollo de profesionales en DAM y DAW
-
-📫 Contacto: joscanoav@gmail.com
-<!--Intro end-->
-  </p>
 <br>
 
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
