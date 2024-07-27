@@ -1,5 +1,5 @@
-Hola, mi nombre es Jorge Oscanoa 👋
-### Desarrollador full stack
+Hello, My name is Jorge Oscanoa 👋
+### Programming and English Teacher
 
 ![https://github.com/joscanoav](./banner2.png)
 
