@@ -38,51 +38,57 @@ Apasionado por el desarrollo de profesionales en DAM y DAW, mi objetivo es compa
 
 ## Algunos vídeos en YouTube:
 
-<table align="left" >
-<tr border="none">
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/LhWPuNJc6A8?si=V6LmQLEw1Gwp5lC2" title="Go to Source">
-        <img align="center" width=100% src=""http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg"  alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="[https://youtu.be/rISmdhlhOPM](https://youtu.be/LhWPuNJc6A8?si=V6LmQLEw1Gwp5lC2)" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+<table style="width:100%">
+<tr>
+<td>
+<a href="https://youtu.be/Kp4Mvapo5kc">
+<img src="http://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg">
+</a>
 </td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/fiUkA2OZQjs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/notifandroid.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/fiUkA2OZQjs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+<td>
+<a href="https://youtu.be/3UCZltG8iCY">
+<img src="http://i3.ytimg.com/vi/3UCZltG8iCY/maxresdefault.jpg">
+</a>
 </td>
-  
-  <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/py31Y1Ku4Es" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/py31Y1Ku4Es" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiChatGPT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+<td>
+<a href="https://youtu.be/3GymExBkKjE">
+<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+</a>
 </td>
-
-   <td width="25%" align="center">
-    <p align="center">
-     <a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://youtu.be/FbQtooM3UIs" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
-    </p>       
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/SavaU66KxQY">
+<img src="http://i3.ytimg.com/vi/SavaU66KxQY/maxresdefault.jpg">
+</a>
 </td>
-  
+<td>
+<a href="https://youtu.be/G0ga_YVQOaw">
+<img src="http://i3.ytimg.com/vi/G0ga_YVQOaw/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/NJacVZx2fv8">
+<img src="http://i3.ytimg.com/vi/NJacVZx2fv8/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="https://youtu.be/_y9qQZXE24A">
+<img src="http://i3.ytimg.com/vi/_y9qQZXE24A/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/mIVbUb7shE8">
+<img src="http://i3.ytimg.com/vi/mIVbUb7shE8/maxresdefault.jpg">
+</a>
+</td>
+<td>
+<a href="https://youtu.be/zFbTXe1yFGA">
+<img src="http://i3.ytimg.com/vi/zFbTXe1yFGA/maxresdefault.jpg">
+</a>
+</td>
 </tr>
 </table>
 
