@@ -57,4 +57,4 @@ Hello, My name is Jorge Oscanoa 👋
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joscanoav&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joscanoav&layout=compact&theme=dark)
